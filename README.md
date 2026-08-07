@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Building iOS Apps
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=nanthi13&style=flat-square&color=blue" />
 
 </div>
 
@@ -63,15 +63,6 @@ I'm a passionate software developer focused on building clean, scalable, and use
 ---
 
 # 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nanthi13&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanthi13&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanthi13&theme=tokyonight&hide_border=true"/>
 </p>
@@ -88,6 +79,7 @@ I'm a passionate software developer focused on building clean, scalable, and use
 
 # 🌱 Currently Exploring
 - App Development
+- Cyber Security
 - Artificial Intelligence
 - Kubernetes
 - System Design
