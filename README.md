@@ -66,14 +66,14 @@ I'm a passionate software developer focused on building clean, scalable, and use
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nanthi13&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanthi13&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nanthi13&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ I'm a passionate software developer focused on building clean, scalable, and use
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🚀 FocusTrackeriOS | Track focus sessions, monitor productivity trends, and gain insights with intuitive visual analytics. | Swift • SwiftUI • UserDefaults |
+| 🚀 [FocusTrackeriOS](https://github.com/nanthi13/taskTracker.git) | Track focus sessions, monitor productivity trends, and gain insights with intuitive visual analytics. | Swift • SwiftUI • UserDefaults |
 
 ---
 
