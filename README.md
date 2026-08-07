@@ -14,84 +14,91 @@ Here are some ideas to get you started:
 -->
 
 
-
 <div align="center">
 
 # 👋 Hi, I'm Nanthi
 
-### Junior Software Engineer • Developer • Problem Solver
+### iOS Developer • Swift Enthusiast • Software Engineer
 
-<p>
-Building iOS Apps
-</p>
+Building thoughtful, user-focused applications for Apple platforms.
 
-<img src="https://komarev.com/ghpvc/?username=nanthi13&style=flat-square&color=blue" />
+<br>
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 </div>
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-I'm a passionate software developer focused on building clean, scalable, and user-friendly applications.
+I'm a junior software engineer focused on creating clean, intuitive, and reliable applications.
 
-- 💻 Full-Stack Development
-- 📱 Mobile-App Development
-- 📚 Always learning new technologies
+My main focus is **iOS development**, where I enjoy turning ideas into polished user experiences using Swift and SwiftUI.
+
+- 📱 iOS Application Development
+- 🎨 User Interface & User Experience
+- 🧩 Swift & SwiftUI Architecture
+- 📚 Continuously learning and improving
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technologies
+
+### Mobile Development
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ### Languages
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
-### Tools & Frameworks
+### Tools
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nanthi13&theme=tokyonight&hide_border=true"/>
-</p>
+# 📱 Featured Projects
+
+| Project | Description | Technologies |
+| --- | --- | --- |
+| 🚀 [FocusTrackeriOS](https://github.com/nanthi13/taskTracker) | A productivity app that helps users track focus sessions, monitor habits, and visualize progress through clean analytics. | Swift • SwiftUI • UserDefaults |
 
 ---
+# 🔬 Beyond Software
 
-# 🏆 Featured Projects
+Outside of app development, I enjoy exploring technology at a deeper level — from experimenting with embedded systems to understanding how hardware and software interact.
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚀 [FocusTrackeriOS](https://github.com/nanthi13/taskTracker.git) | Track focus sessions, monitor productivity trends, and gain insights with intuitive visual analytics. | Swift • SwiftUI • UserDefaults |
-
+- 🍓 Raspberry Pi & small-scale computing projects
+- 🔧 Hardware tinkering and device customization
+- 🧩 Exploring operating systems and system internals
+- ⚙️ Learning how technology works beyond the user interface
 ---
 
 # 🌱 Currently Exploring
-- App Development
-- Cyber Security
-- Artificial Intelligence
-- Kubernetes
-- System Design
 
+- Advanced SwiftUI patterns
+- iOS architecture & best practices
+- Artificial Intelligence
+- Cyber Security
+- Cloud technologies
 
 ---
 
-
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### Thanks for visiting!
 
-*"Code. Learn. Build. Repeat."*
+*"Design. Develop. Refine."*
 
 </div>
