@@ -73,6 +73,7 @@ My main focus is **iOS development**, where I enjoy turning ideas into polished 
 | Project | Description | Technologies |
 | --- | --- | --- |
 | 🚀 [FocusTrackeriOS](https://github.com/nanthi13/taskTracker) | A productivity app that helps users track focus sessions, monitor habits, and visualize progress through clean analytics. | Swift • SwiftUI • UserDefaults |
+| 🖥️ [Velkommen til Funkweb Helsfyr](https://github.com/FunkWeb/Velkommen-til-FunkWeb---Helsfyr)| Velkommen til FunkWeb – Helsfyr is an interactive game developed in Ren'Py to give people an easy and engaging introduction to the new locale for FunkWeb at Helsfyr.|
 
 ---
 # 🔬 Beyond Software
@@ -87,6 +88,7 @@ Outside of app development, I enjoy exploring technology at a deeper level — f
 
 # 🌱 Currently Exploring
 
+- Game development in Ren'Py
 - Advanced SwiftUI patterns
 - iOS architecture & best practices
 - Artificial Intelligence
